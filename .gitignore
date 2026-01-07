@@ -1,0 +1,115 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.pdb
+
+# Kernel Module Compile
+*.cmd
+.tmp_versions/
+modules.symvers
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# ===========================================
+# 보안 학습 관련 파일들
+# ===========================================
+
+# 컴파일된 실습 파일
+**/labs/*/build/
+**/labs/*/bin/
+**/exercises/*/output/
+
+# 바이너리 실행 파일 (확장자 없는)
+memory_layout
+buffer_overflow
+heap_demo
+rop_chain
+vulnerable_*
+exploit_*
+
+# 어셈블리 관련
+*.asm.o
+*.nasm.o
+*.s.o
+
+# 디버깅 파일
+core
+core.*
+*.core
+debug.txt
+*.log
+gdb.txt
+valgrind.out
+
+# 임시 파일
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 개인 노트 (민감한 내용 포함 가능)
+personal-notes/
+private/
+secrets/
+*.private
+
+# CTF 관련 (실제 플래그나 솔루션)
+flags.txt
+solutions/
+writeups/private/
+
+# VM 및 환경 설정
+*.vdi
+*.vmdk
+*.qcow2
+.vagrant/
+
+# IDE 설정
+.vscode/
+.idea/
+*.sublime-*
+
+# 패키지 관리
+node_modules/
+__pycache__/
+*.pyc
