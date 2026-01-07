@@ -26,16 +26,5 @@
 - [Phase 7: 최종 프로젝트](phases/phase-07/)
 - [Phase 8: 면접 준비](phases/phase-08/)
 
-## 📈 현재 진행 상황
-```bash
-./tools/progress.sh  # 진행률 확인
-```
-## 🛠️ 빠른 시작
-```bash
-git clone <repository>
-cd cybersecurity-learning
-./setup.sh
-cd phases/phase-01
-```
 ---
-*마지막 업데이트: 2026-01-05*
+*마지막 업데이트: 2026-01-07*
