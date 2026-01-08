@@ -1,7 +1,7 @@
 //2026-01-07
 
 /*
-Computer Science
+[Computer Science]
 
 Bitwise Operation
 Encoding & Decoding
@@ -10,7 +10,7 @@ Byte Ordering
 */
 
 /* 
-Install Linux
+[Install Linux]
 
 VirtualBuddy
 UTM
