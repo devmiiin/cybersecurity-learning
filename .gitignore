@@ -113,3 +113,6 @@ writeups/private/
 node_modules/
 __pycache__/
 *.pyc
+
+*.gitignore
+*.vscode
